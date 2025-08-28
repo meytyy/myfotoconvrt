@@ -1,4 +1,4 @@
-# image_converter_with_format.py
+
 import os
 from PIL import Image
 import tkinter as tk
